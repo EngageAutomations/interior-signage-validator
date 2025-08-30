@@ -3,8 +3,9 @@ fastapi==0.104.1
 uvicorn[standard]==0.24.0
 pydantic==2.5.0
 
-# Font size calculation
+# Font size calculation and SVG generation
 matplotlib==3.8.2
+fonttools==4.47.0
 
 # Testing dependencies
 pytest==7.4.3
