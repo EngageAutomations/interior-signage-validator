@@ -1,0 +1,1 @@
+"""Interior signage validation module."""
